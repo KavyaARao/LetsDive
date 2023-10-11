@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Hey Mam,
+Hope you are doing well!
+I am Tanishq Vyas. I am looking for a Job at Bank of America.
+Could You please refer me for the job?
+
+About me- I am experienced in problem solving in C++.
+I have done a 6 month data science internship at IIT Indore. I have also done projects in machine learning and data science.
+I am looking for this role to enhance my skill and experience the amazing work culture at Bank of America.
+
+role-Software Engineer I B - GBS IND
+job ID-JR-23017139
+
+Hope you will refer me.
+
+resume link-
+https://drive.google.com/file/d/1wW4d1Y9QZrSyTEMm6_95qtc9cax0P8Il/view?usp=sharing
